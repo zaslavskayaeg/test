@@ -1,2 +1,3 @@
 Hello, world!
 kjoi
+ещё одна строчка
