@@ -3,3 +3,4 @@ test 123
 new line
 Hello, git!
 Hello, git rebase!
+Hello, git cherry-pik
