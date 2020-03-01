@@ -4,3 +4,4 @@ new line
 Hello, git!
 Hello, git rebase!
 Hello, git cherry-pik
+Hello, squash!
